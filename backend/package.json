@@ -19,5 +19,8 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0" // Ensures the correct Node.js version on Vercel
+  }
 }
