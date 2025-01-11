@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "MERN Shopping Cart App",
   "main": "server.js",
-  "type": "module",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
